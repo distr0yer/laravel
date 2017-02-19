@@ -1,3 +1,18 @@
+**This README was provided by Laravel/Homestead**
+
+-----------------------------------------------------------------------
+
+<a href="https://github.com/distr0yer/laravel/blob/master/Code/Laravel/test.md">For test questions click here </a>
+
+Notable routes to visit:
+
+  /git to authorize app which then sends you to:
+      /callback which receives a code and then resubmits to github for access token
+      /repos which displays an array of the names of each repo on github
+  /loops to see benchmark test on for, foreach, and while loops 
+  /math to see laravel collections impl to ascertain mean, median, mode, standard deviation
+  
+  
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-homestead.svg"></p>
 
 <p align="center">
