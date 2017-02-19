@@ -6,4 +6,4 @@
       time for for loop: 0.20744800567627
       time for foreach: 0.12781691551208
       time for while loop: 3.0994415283203E-6
-  2. { "mean":69.29411764705883,"median":58,"mode":[41,91],"standardDeviation":56.55061731174205 }
+  2. { "mean":69.29411764705883,"median":58,"mode":[41,91],"standardDeviation":56.55061731174205 } for [13, 24, 91, 120, 41, 76, 91, 46, 71, 101, 259, 12, 41, 28, 73, 33, 58]
