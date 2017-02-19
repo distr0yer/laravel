@@ -5,12 +5,12 @@
 <a href="https://github.com/distr0yer/laravel/blob/master/Code/Laravel/test.md">For test questions click here </a>
 
 Notable routes to visit:
-
+<br/>
   /git to authorize app which then sends you to:_
-      &nbsp;&nbsp;&nbsp;&nbsp;/callback which receives a code and then resubmits to github for access token_
-      &nbsp;&nbsp;&nbsp;&nbsp;/repos which displays an array of the names of each repo on github_
-  /loops to see benchmark test on for, foreach, and while loops _
-  /math to see laravel collections impl to ascertain mean, median, mode, standard deviation_
+<br/>     &nbsp;&nbsp;&nbsp;&nbsp;/callback which receives a code and then resubmits to github for access token_
+<br/>     &nbsp;&nbsp;&nbsp;&nbsp;/repos which displays an array of the names of each repo on github_
+ <br/> /loops to see benchmark test on for, foreach, and while loops _
+ <br/> /math to see laravel collections impl to ascertain mean, median, mode, standard deviation_
   
   
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-homestead.svg"></p>
